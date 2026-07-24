@@ -106,7 +106,7 @@ Construção de um modelo de Regressão Logística
 
 </div>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Vinicius-datascience&theme=tokyo-night"/>
+
 
 
 
