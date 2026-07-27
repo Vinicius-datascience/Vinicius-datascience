@@ -56,18 +56,6 @@ Uma análise preditiva para identificação de clientes propensos á compra de v
 Esclarece o uso da função sigmoide na conversão de variáveis em probabilidades para classificação binária.
 Construção de um modelo de Regressão Logística [Predição de Doenças Cardiovasculares](https://github.com/Vinicius-datascience/Regress-o-Log-stica) 
 
----
-
-## 📊 Estatísticas
-
-<div align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="180" src="https://github-readme-stats.vercel.app/api?username=Vinicius-datascience&show_icons=true&theme=tokyonight&locale=pt-br&include_all_commits=true" alt="Estatísticas do GitHub" />
-  </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vinicius-datascience&layout=compact&theme=tokyonight&locale=pt-br" alt="Tecnologias mais usadas" />
-  </a>
-</div>
 
 
 
