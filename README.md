@@ -62,10 +62,10 @@ Construção de um modelo de Regressão Logística [Predição de Doenças Cardi
 
 <div align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Vinicius-datascience&show_icons=true&theme=tokyonight&locale=pt-br&include_all_commits=true" alt="Estatísticas do GitHub" />
+    <img height="180" src="https://github-readme-stats.vercel.app/api?username=Vinicius-datascience&show_icons=true&theme=tokyonight&locale=pt-br&include_all_commits=true" alt="Estatísticas do GitHub" />
   </a>
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vinicius-datascience&layout=compact&theme=tokyonight&locale=pt-br" alt="Tecnologias mais usadas" />
+    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vinicius-datascience&layout=compact&theme=tokyonight&locale=pt-br" alt="Tecnologias mais usadas" />
   </a>
 </div>
 
