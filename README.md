@@ -36,6 +36,9 @@ Sou um profissional em transição para a área de Dados, motivado por transform
 
 ## 📂 Projetos em Destaques
 
+🔬 E-commerce Analytics -
+Análise com uso de SQL e Python para analisar o desempenho de um e-commerce a partir do cruzamento de dados transacionais e cadastrais dos clientes. [E-commerce Analytics](https://github.com/Vinicius-datascience/analise-ecommerce-sql-python) 
+
 🏦 Detecção de Fraudes Bancárias -
 Machine Learning para identificação de transações fraudulentas utilizando Random Forest, XGBoost e técnicas de balanceamento. [Detecçāo de Fraudes bancárias](https://github.com/Vinicius-datascience/credit-card-fraud-detection)
 
